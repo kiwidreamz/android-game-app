@@ -15,16 +15,16 @@ While playing this game, you not only get a lot of fun, but also gradually impro
 
 #### Leagues supported :
 
-Premier League
-La Liga
-Serie A
-Bundesliga
-Ligue 1
-Brasileirao
-Championship
-MLS
-A-League (Australia)
-and many more clubs from Europe and around the world, including the Americas, Asia, Africa and the Middle East !
+- Premier League
+- La Liga
+- Serie A
+- Bundesliga
+- Ligue 1
+- Brasileirao
+- Championship
+- MLS
+- A-League (Australia)
+- and many more clubs from Europe and around the world, including the Americas, Asia, Africa and the Middle East !
 
 
 _________
