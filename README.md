@@ -10,7 +10,8 @@ Football Memory, the board game which has engaged most of our childhood, now in 
 
 Memory training is perfect for all ages and this game can be played by kids or seniors. The simple and intuitive interface and basic usability is perfect for anyone who wants to play an occasional game without major complications.
 
-While playing this game, you not only get a lot of fun, but also gradually improve your memory, concentration and attention. You can play without an internet connection on the way to work or home, in a waiting room, in the toilet, anywhere really !
+While playing this game, you not only get a lot of fun, but also gradually improve your memory, concentration and attention.
+No internet connection required.
 
 
 #### Leagues supported :
