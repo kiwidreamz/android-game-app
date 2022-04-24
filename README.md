@@ -27,7 +27,3 @@ No internet connection required.
 - A-League (Australia)
 - and many more clubs from Europe and around the world, including the Americas, Asia, Africa and the Middle East !
 
-
-_________
-
-The material in this app is provided for educational and informational purposes. This constitutes a ‘fair use’ of any such copyrighted material as provided for in section 107 of the US Copyright Law. In accordance with Title 17 U.S.C. Section 107, the material on this site is distributed without profit. If you wish to use copyrighted material from this site for purposes of your own that go beyond ‘fair use’, you must obtain permission from the copyright owner. The information on this site does not constitute legal or technical advice.
