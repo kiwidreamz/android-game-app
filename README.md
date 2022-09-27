@@ -26,4 +26,3 @@ No internet connection required.
 - MLS
 - A-League (Australia)
 - and many more clubs from Europe and around the world, including the Americas, Asia, Africa and the Middle East !
-
