@@ -1,7 +1,7 @@
 # Football Memory Image Matching
 
 
-### App Access Link: [Google Play Store App](https://play.google.com/store/apps/details?id=com.spopov.footballmemory)
+### Access Link: [Google Play Store App](https://play.google.com/store/apps/details?id=com.spopov.footballmemory)
 
 ### Description:
 
