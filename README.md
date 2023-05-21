@@ -25,5 +25,5 @@ No internet connection required.
 - Brasileirao
 - Championship
 - MLS (US)
-- Australian A-League
+- A-League (Australia)
 - and many more clubs from Europe and around the world, including the Americas, Asia, Africa and the Middle East !
