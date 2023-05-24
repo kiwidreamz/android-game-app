@@ -24,6 +24,6 @@ No internet connection required.
 - Ligue 1
 - Brasileirao
 - Championship
-- MLS (US)
+- MLS (United States)
 - A-League (Australia)
 - and many more clubs from Europe and around the world, including the Americas, Asia, Africa and the Middle East !
