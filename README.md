@@ -26,4 +26,4 @@ No internet connection required.
 - Championship
 - MLS (United States)
 - A-League (Australia)
-- and many more clubs from Europe and around the world, including the Americas, Asia, Africa and the Middle East !
+- and many more clubs from Europe and around the world, including the Americas, Asia, Africa and the Middle East!
