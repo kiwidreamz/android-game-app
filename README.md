@@ -5,7 +5,7 @@
 
 ### Description:
 
-FREE with no ads, no application requirements, no data stored & no data collected ever !
+FREE with no ads, no application requirements, no data stored & no data collected ever!
 
 Football Memory, the board game which has engaged most of our childhood, now in your pockets ! Flip the cards, match the club crests, clear the board and try the next board with more tiles and a different league. There are three difficulty levels : Easy, Medium and Hard.
 
