@@ -15,7 +15,7 @@ While playing this android game, you not only get a lot of fun, but also gradual
 No internet connection required.
 
 
-#### Leagues supported :
+#### Leagues supported:
 
 - Premier League
 - La Liga
